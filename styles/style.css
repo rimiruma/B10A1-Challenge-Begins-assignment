@@ -56,6 +56,10 @@
 .banner-section-container .btn-primary {
   background-color: rgb(13, 19, 33);
   color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding: 10px 25px;
   border-radius: 5px;
   font-weight: bold;
